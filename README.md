@@ -1,15 +1,19 @@
 ## Hey, I'm Caden 👋
 
-I'm a CS student at Notre Dame who's a little too excited about agentic AI systems. Somewhere between shipping code and reading papers, I'm trying to figure out how to build AI that's human-centered and actually makes people's lives better.
+I'm a CS student at Notre Dame interested in what happens beneath the AI application layer: agents, ML systems, infrastructure, and reliability.
 
-**Right now I'm:**
-- 🛠️ Building 
-- 📚 Learning 
-- 🤝 Down to collaborate on anything agentic AI, human-centered AI, or deep learning
-- 🌱 Trying to be a net positive with the tech I build, not just a clever one
+Most of my time goes toward building systems and then figuring out where they break.
 
-**When I'm not at a keyboard:**
-I'm probably outside somewhere or lately, deep into a new anime binge. Send recommendations, I'm always taking them.
+Right now I'm:
+
+🛠️ Building AI products and multi-agent systems
+⚙️ Learning ML systems, GPU computing, and distributed infrastructure
+🧪 Experimenting with retrieval, evaluation, and reliability for LLM applications
+📚 Reading papers and turning interesting ideas into projects
+
+I've worked on problems ranging from AI education systems to agent orchestration and retrieval pipelines, and I'm especially interested in software where performance and reliability actually matter.
+
+Outside of code, you'll probably find me playing sports, reading about technology and governance, or watching anime.
 
 📫 Reach me: [email / LinkedIn / whatever you prefer]
 
