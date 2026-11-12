@@ -1,5 +1,7 @@
 ## Hey, I'm Caden
 
+![caden, typing](typing-lines.svg)
+
 South African student at Notre Dame (CS '29). I build agents that learn.
 
 VulaLearn — built an AI learning platform for understaffed schools in South Africa, used by 75,000+ students.
