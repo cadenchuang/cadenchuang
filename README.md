@@ -1,6 +1,6 @@
 ## Hey, I'm Caden
 
-![caden, typing](typing-lines.svg)
+![caden, typing](typing-lines-v2.svg)
 
 South African student at Notre Dame (CS '29). I build agents that learn.
 
