@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="260" viewBox="0 0 220 260" role="img" aria-label="Spinning totem">
+  <title>the totem, still spinning</title>
+  <!--
+    The totem from Inception, drawn in ASCII, spinning in a full circle
+    around its own center, like a top viewed from above. It never falls.
+  -->
+  <g transform="translate(110,14)">
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#b8860b" text-anchor="middle">
+      <animateTransform attributeName="transform" type="rotate"
+        values="0 0 105; 360 0 105"
+        dur="3s" repeatCount="indefinite"/>
+      <text x="0" y="0">/\</text>
+      <text x="0" y="15">/  \</text>
+      <text x="0" y="30">/    \</text>
+      <text x="0" y="45">|      |</text>
+      <text x="0" y="60">|      |</text>
+      <text x="0" y="75">|      |</text>
+      <text x="0" y="90">\    /</text>
+      <text x="0" y="105">\  /</text>
+      <text x="0" y="120">______ \/ ______</text>
+      <text x="0" y="135">/                \</text>
+      <text x="0" y="150">|__________________|</text>
+      <text x="0" y="165">\      /</text>
+      <text x="0" y="180">\    /</text>
+      <text x="0" y="195">\  /</text>
+      <text x="0" y="210">\/</text>
+    </g>
+  </g>
+</svg>

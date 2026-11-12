@@ -1,6 +1,6 @@
 ## Hey, I'm Caden
 
-![the totem, still spinning](totem-spin.svg)
+![the totem, still spinning](totem-spin-v2.svg)
 
 South African student at Notre Dame (CS '29). I build agents that learn.
 
