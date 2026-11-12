@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="260" viewBox="0 0 700 260" role="img" aria-label="Jeremy Lin game-winning three in Toronto, Feb 14 2012, reenacted">
+  <title>linsanity — toronto, feb 14 2012</title>
+  <rect x="5" y="5" width="690" height="250" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="270" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.756;0.822;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="294" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.758;0.824;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="318" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.76;0.827;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="342" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.762;0.829;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="366" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.764;0.831;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="390" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.756;0.822;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="414" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.758;0.824;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="438" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.76;0.827;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="462" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.762;0.829;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="486" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.764;0.831;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="510" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.756;0.822;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="534" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.758;0.824;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="558" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.76;0.827;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="582" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.762;0.829;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="606" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.764;0.831;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="630" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.756;0.822;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="654" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.758;0.824;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="678" cy="50" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="50;41;50;50" keyTimes="0;0.76;0.827;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="270" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.756;0.822;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="294" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.758;0.824;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="318" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.76;0.827;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="342" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.762;0.829;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="366" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.764;0.831;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="390" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.756;0.822;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="414" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.758;0.824;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="438" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.76;0.827;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="462" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.762;0.829;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="486" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.764;0.831;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="510" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.756;0.822;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="534" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.758;0.824;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="558" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.76;0.827;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="582" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.762;0.829;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="606" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.764;0.831;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="630" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.756;0.822;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="654" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.758;0.824;1" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="678" cy="62" r="3" fill="#8b949e" opacity="0.55"><animate attributeName="cy" values="62;53;62;62" keyTimes="0;0.76;0.827;1" dur="9s" repeatCount="indefinite"/></circle>
+  <rect x="20" y="16" width="300" height="46" rx="6" fill="#161b22" stroke="#30363d"/>
+  <text x="34" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="bold" fill="#F58426">NYK</text>
+  <text x="82" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#e6edf3" opacity="1"><animate attributeName="opacity" values="1;0" keyTimes="0;0.756" calcMode="discrete" dur="9s" repeatCount="indefinite"/>87</text>
+  <text x="82" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#e6edf3" opacity="0"><animate attributeName="opacity" values="0;1" keyTimes="0;0.756" calcMode="discrete" dur="9s" repeatCount="indefinite"/>90</text>
+  <text x="128" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="bold" fill="#CE1141">TOR</text>
+  <text x="176" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#e6edf3">87</text>
+  <text x="306" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e" text-anchor="end" opacity="0"><animate attributeName="opacity" values="1;0" keyTimes="0;0.278" calcMode="discrete" dur="9s" repeatCount="indefinite"/>11.4</text>
+  <text x="306" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e" text-anchor="end" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.278;0.5" calcMode="discrete" dur="9s" repeatCount="indefinite"/>6.4</text>
+  <text x="306" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e" text-anchor="end" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;0.611" calcMode="discrete" dur="9s" repeatCount="indefinite"/>2.6</text>
+  <text x="306" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e" text-anchor="end" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.611;0.722" calcMode="discrete" dur="9s" repeatCount="indefinite"/>1.4</text>
+  <text x="306" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e" text-anchor="end" opacity="0"><animate attributeName="opacity" values="0;1" keyTimes="0;0.722" calcMode="discrete" dur="9s" repeatCount="indefinite"/>0.5</text>
+  <path d="M 330,225 Q 480,140 625,225" stroke="#8b949e" stroke-width="1.5" fill="none" opacity="0.45"/>
+  <rect x="5" y="225" width="690" height="30" fill="#11161d"/>
+  <line x1="5" y1="225" x2="695" y2="225" stroke="#30363d" stroke-width="1"/>
+  <text x="430" y="247" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8b949e" text-anchor="middle">3PT</text>
+  <text x="330" y="247" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#CE1141" text-anchor="middle" opacity="0.85">CANADA</text>
+  <text x="680" y="247" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8b949e" text-anchor="end">toronto &#183; feb 14, 2012</text>
+  <rect x="622" y="92" width="6" height="52" fill="#e6edf3"/>
+  <line x1="598" y1="142" x2="624" y2="142" stroke="#F58426" stroke-width="4" stroke-linecap="round"/>
+  <g stroke="#e6edf3" stroke-width="1.5" fill="none"><animateTransform attributeName="transform" type="rotate" values="0 611 142; 5 611 142; -3 611 142; 0 611 142; 0 611 142" keyTimes="0;0.756;0.822;0.889;1" dur="9s" repeatCount="indefinite"/><path d="M 600,142 L 606,172 M 611,142 L 611,172 M 622,142 L 616,172 M 602,156 L 620,156 M 604,168 L 618,168"/></g>
+  <g transform="translate(470,225)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 0; 30 0; 30 0" keyTimes="0;0.278;0.5;1" additive="sum" dur="9s" repeatCount="indefinite"/>
+    <path d="M -6,-28 L -13,-14 L -16,0" stroke="#8a6f4d" stroke-width="5" stroke-linecap="round" fill="none"/><path d="M 6,-28 L 13,-14 L 16,0" stroke="#8a6f4d" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <rect x="-14" y="-42" width="28" height="16" rx="4" fill="#CE1141"/>
+    <rect x="-13" y="-81" width="26" height="41" rx="7" fill="#f5f5f5" stroke="#CE1141" stroke-width="1.5"/>
+    <text x="0" y="-56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="bold" fill="#CE1141" text-anchor="middle">8</text>
+    <line x1="-10" y1="-74" x2="-27" y2="-58" stroke="#8a6f4d" stroke-width="5" stroke-linecap="round"/><line x1="10" y1="-74" x2="27" y2="-58" stroke="#8a6f4d" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="0" cy="-93" r="10" fill="#8a6f4d"/><path d="M -10,-93 A 10,10 0 0 1 10,-93 Z" fill="#111"/>
+  </g></g>
+  <g transform="translate(200,225)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 0; 230 0; 230 0" keyTimes="0;0.278;0.5;1" additive="sum" dur="9s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 0; 0 -52; 0 0; 0 0" keyTimes="0;0.5;0.578;0.656;1" dur="9s" repeatCount="indefinite"/>
+      <line x1="-6" y1="-28" x2="-10" y2="0" stroke="#e8b98a" stroke-width="5" stroke-linecap="round"/><line x1="6" y1="-28" x2="10" y2="0" stroke="#e8b98a" stroke-width="5" stroke-linecap="round"/>
+      <rect x="-14" y="-42" width="28" height="16" rx="4" fill="#F58426"/>
+      <rect x="-15" y="-84" width="30" height="44" rx="8" fill="#006BB6"/>
+      <text x="0" y="-56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">17</text>
+      <line x1="12" y1="-76" x2="24" y2="-102" stroke="#e8b98a" stroke-width="5" stroke-linecap="round"/>
+      <line x1="-12" y1="-76" x2="-20" y2="-56" stroke="#e8b98a" stroke-width="5" stroke-linecap="round" opacity="1"><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;0.689" calcMode="discrete" dur="9s" repeatCount="indefinite"/></line>
+      <line x1="-12" y1="-76" x2="-24" y2="-102" stroke="#e8b98a" stroke-width="5" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.5;0.689" calcMode="discrete" dur="9s" repeatCount="indefinite"/></line>
+      <circle cx="0" cy="-96" r="11" fill="#e8b98a"/><path d="M -11,-96 A 11,11 0 0 1 11,-96 Z" fill="#111"/>
+    </g>
+  </g></g>
+  <g transform="translate(120,225)"><g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 0; 280 0; 280 0" keyTimes="0;0.778;0.889;1" additive="sum" dur="9s" repeatCount="indefinite"/>
+    <line x1="-6" y1="-28" x2="-10" y2="0" stroke="#8a6f4d" stroke-width="5" stroke-linecap="round"/><line x1="6" y1="-28" x2="10" y2="0" stroke="#8a6f4d" stroke-width="5" stroke-linecap="round"/>
+    <rect x="-14" y="-42" width="28" height="16" rx="4" fill="#F58426"/>
+    <rect x="-15" y="-84" width="30" height="44" rx="8" fill="#006BB6"/>
+    <text x="0" y="-56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <line x1="-12" y1="-76" x2="-26" y2="-64" stroke="#8a6f4d" stroke-width="5" stroke-linecap="round"/><line x1="12" y1="-76" x2="26" y2="-64" stroke="#8a6f4d" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="0" cy="-96" r="11" fill="#8a6f4d"/><path d="M -11,-96 A 11,11 0 0 1 11,-96 Z" fill="#111"/>
+  </g></g>
+  <circle cx="222" cy="150" r="9" fill="#F58426" stroke="#b35c00" stroke-width="1"><animate attributeName="cx" values="222;222;452;455;495;548;592;615;615" keyTimes="0;0.278;0.5;0.578;0.622;0.667;0.711;0.756;1" dur="9s" repeatCount="indefinite"/><animate attributeName="cy" values="150;192;150;192;150;192;150;192;150;150;90;76;78;98;130;172;219;219" keyTimes="0;0.056;0.111;0.167;0.222;0.278;0.333;0.389;0.444;0.5;0.578;0.622;0.667;0.711;0.756;0.8;0.833;1" dur="9s" repeatCount="indefinite"/></circle>
+  <text x="200" y="105" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="34" font-weight="bold" fill="#d4a017" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.8;0.844;0.956;1" dur="9s" repeatCount="indefinite"/>LINSANITY</text>
+  <text x="200" y="127" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#e6edf3" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.8;0.844;0.956;1" dur="9s" repeatCount="indefinite"/>game winner &#183; 0.5 left &#183; toronto</text>
+</svg>
